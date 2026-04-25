@@ -1,0 +1,19 @@
+{
+  "name": "Spielbank Bad Steben",
+  "short_name": "Spielbank Bad Steben",
+  "theme_color": "",
+  "background_color": "#102858",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1777110534-favicon.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

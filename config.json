@@ -1,0 +1,209 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#102858",
+            "lang-select-color": "#222829",
+            "bg-light": "#102858",
+            "welcome-bonus-bg": "#102858",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#242866",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#9D6111",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#6b410b",
+            "yellow-button": "#9D6111",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#a1a1a1",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#9D6111",
+            "faq-label": "#ababab",
+            "bg-footer": "#9D6111",
+            "copyright": "#e7e7d5",
+            "starColor": "#fff700",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6891"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6892",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Spielbank Bad Steben"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6893",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Spielbank Bad Steben"
+        }
+    },
+    "pages": [
+        {
+            "id": "de-de-de-DE",
+            "path": "\/",
+            "name": "Немецкий",
+            "languageCode": "de",
+            "regionCode": "DE",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Spielbank Bad Steben",
+                    "title": "Spielbank Bad Steben – Casino in Oberfranken",
+                    "description": "Entdecken Sie die Spielbank Bad Steben: unsere Spielbank am Casinoplatz 1 mit moderner Architektur, Roulette, Black Jack, Poker, Automaten und CasinoLIVE.",
+                    "canonical": "casino-spielbank-bad-steben.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6894",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-spielbank-bad-steben.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6895"
+                },
+                "hero": {
+                    "title": "Spielbank Bad Steben – modernes Casino-Erlebnis, Spielkultur und Events im Bayerischen Staatsbad",
+                    "textDesktop": "Exklusives Willkommensangebot von",
+                    "textMobile": "Exklusives Willkommensangebot von",
+                    "playGame": "Spiel starten",
+                    "claimBonus": "Bonus sichern",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6896",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -2,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6897",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Bonus sichern",
+                    "title": "Top-Casino",
+                    "allCasino": "Alle Casino",
+                    "welcomeBonusText": "Willkommensbonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonusdetails",
+                    "getBonusButtonText": "Bonus erhalten",
+                    "maximumAmountText": "Maximalbetrag",
+                    "wagerText": "Umsatz",
+                    "bonusCodeText": "Bonuscode",
+                    "casino": "Kasino",
+                    "bonuses": "Boni",
+                    "rate": "Rate",
+                    "freeSpins": "Frei Spins",
+                    "moreInfo": "Mehr Info",
+                    "get": "Erhalten",
+                    "refresh": "Aktualisieren"
+                },
+                "advantages": {
+                    "title": "Vorteile",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Moderne Casino-Architektur",
+                        "Über 70 Automaten",
+                        "Drei Roulette-Tische",
+                        "CasinoLIVE mit Kultur",
+                        "Eintritt kostenfrei"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Mehr erfahren",
+                    "appTitle": "Spielbank Bad Steben App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6898",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Spielbank Bad Steben App",
+                    "mobileGooglePlayImageTitle": "Spielbank Bad Steben App",
+                    "mobileIosImageTitle": "Spielbank Bad Steben App"
+                },
+                "games": {
+                    "playNowText": "Jetzt spielen",
+                    "title": "Beliebte Spiele",
+                    "allGames": "Alle Spiele"
+                },
+                "about": {
+                    "history": {
+                        "title": "Über das Casino",
+                        "description1": "",
+                        "items": [
+                            "Unsere Spielbank wurde am 23. März 2001 eröffnet.",
+                            "Über 70 modernste Spielautomaten inklusive Multi-Roulette stehen für unsere Gäste bereit.",
+                            "American Roulette wird in Bad Steben an drei Tischen gespielt.",
+                            "Black Jack wird in unserer Spielbank an einem Tisch angeboten.",
+                            "2021 berichtete die Staatliche Lotterie- und Spielbankverwaltung von rund 800.000 Gästen seit der Eröffnung.",
+                            "CasinoLIVE ist unser Kunst- und Kulturfoyer für Kabarett, Lesungen und Musikveranstaltungen."
+                        ],
+                        "description2": "Unsere Geschichte in Bad Steben begann am 23. März 2001. An diesem Tag wurde unsere Spielbank eröffnet und damit ein wichtiger Casino-Standort in Oberfranken geschaffen, der bis heute mit dem Bayerischen Staatsbad Bad Steben verbunden ist.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6899",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Spielbank Bad Steben",
+                        "description3": "Unsere Spielbank wurde als modernes architektonisches Wahrzeichen gestaltet. Das Gebäude wurde vom Architekten Meinhard von Gerkan entworfen; die beleuchtete Glasfassade, das wellenförmige Dach und der Casinoplatz mit der leuchtenden „Kleinen Serie“ des Roulette-Kessels prägen den besonderen Charakter unseres Casinos.\n\nVon Beginn an verbinden wir klassisches Spiel mit einem hochwertigen Besuchserlebnis. Unsere Gäste erleben Roulette, Black Jack, Poker und moderne Spielautomaten in einem stilvollen Umfeld, das durch Gastronomie und kulturelle Veranstaltungen ergänzt wird.\n\nHeute begrüßen wir unsere Gäste am Casinoplatz 1, 95138 Bad Steben. Unser Casino bietet Großes Spiel täglich von 18.00 bis 2.00 Uhr und Automatenspiel täglich von 13.00 bis 2.00 Uhr; der Eintritt in den Spielsaal ist frei, die Spielteilnahme ist ab 21 Jahren mit gültigem Lichtbildausweis möglich."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Spiel und Atmosphäre",
+                        "description": "<p style=\"color:#ffffff;\">In unserem Casino in Bad Steben empfangen wir unsere Gäste am Casinoplatz 1, 95138 Bad Steben, in einem stilvollen und großzügigen Ambiente. Bei uns verbindet sich klassisches Spielvergnügen mit moderner Unterhaltung, feiner Gastronomie und einer Atmosphäre, die den Besuch zu einem besonderen Erlebnis macht.<\/p> <br> <p style=\"color:#ffffff;\">Unser Haus ist als Erlebniswelt gestaltet: Bühne, Bar, Restaurant und Casino gehören bei uns zusammen. So entsteht ein Abend, der nicht nur vom Spiel lebt, sondern auch von Kultur, Genuss und einem starken Wohlfühlmoment.<\/p> <br> <p style=\"color:#ffffff;\">Bei uns erleben Besucher die Spannung klassischer Casinospiele. Roulette, Poker und Black Jack stehen für die besondere Intensität des Großen Spiels, bei dem jeder Moment von Konzentration, Entscheidung und Vorfreude geprägt ist.<\/p> <br> <p style=\"color:#ffffff;\">Unsere große Automatenvielfalt ergänzt das Tischspiel mit einem dynamischen, modernen Spielbereich. Schon mit kleinen Einsätzen lässt sich bei uns ein unterhaltsamer Einstieg finden, während Jackpots und verschiedene Spielangebote für zusätzliche Spannung sorgen.<\/p> <br> <p style=\"color:#ffffff;\">Wir bieten täglich klare Spielzeiten: Das Große Spiel öffnet bei uns von 18:00 bis 2:00 Uhr, das Automatenspiel bereits von 13:00 bis 2:00 Uhr. So können Gäste ihren Besuch flexibel planen und den passenden Rhythmus für ihren Casinoabend wählen.<\/p> <br> <p style=\"color:#ffffff;\">Mit Semi-Live Multi-Roulette schaffen wir eine zusätzliche Verbindung zwischen moderner Technik und Live-Spielgefühl. Von 17:00 bis 2:00 Uhr ist dieses Angebot bei uns mit den Live-Tischen der Spielbank Lindau verbunden.<\/p> <br> <p style=\"color:#ffffff;\">Unser CasinoLIVE bringt kulturelle Höhepunkte direkt in unser Haus. Kabarett, Konzerte und besondere Bühnenmomente machen den Besuch bei uns noch abwechslungsreicher und verbinden Spielbankflair mit Live-Unterhaltung.<\/p> <br> <p style=\"color:#ffffff;\">Auch Genießer finden bei uns den passenden Rahmen. Unser Spielbankrestaurant verwöhnt Gäste mit lokalen Schmankerln und internationalen Specials, während unsere Bar täglich mit einer reichhaltigen Getränkeauswahl geöffnet ist.<\/p> <br> <p style=\"color:#ffffff;\">Wir setzen auf eine Kombination aus Spannung, Stil und Service: Wer bei uns spielt, kann den Abend mit Automaten, Tischspiel, Bühnenprogramm, Restaurant und Bar zu einem vollständigen Erlebnis verbinden.<\/p> <br> <div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bestätigter Punkt\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Details bei uns\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Spielangebot\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Roulette, Poker, Black Jack und große Automatenvielfalt\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Großes Spiel\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Täglich von 18:00 bis 2:00 Uhr\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Automatenspiel\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Täglich von 13:00 bis 2:00 Uhr\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Semi-Live\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Multi-Roulette von 17:00 bis 2:00 Uhr mit Anbindung an die Live-Tische in der Spielbank Lindau\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    CasinoLIVE\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Eventbühne mit Highlights wie Kabarett und Konzerten\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Standort\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Spielbank Bad Steben, Casinoplatz 1, 95138 Bad Steben\n  <\/td>\n<\/tr>\n<\/table> <\/div> <br> <p style=\"color:#ffffff;\">Unser Großes Spiel steht für klassische Casinokultur in Bad Steben. Roulette, Poker und Black Jack bringen die besondere Spannung an den Tisch, während unser stilvolles Ambiente den passenden Rahmen dafür schafft.<\/p> <br> <p style=\"color:#ffffff;\">Im Automatenspiel setzen wir auf Vielfalt und Komfort. Bei uns können Gäste in entspannter Atmosphäre spielen, Jackpots erleben und die Dynamik moderner Automaten genießen.<\/p> <br> <p style=\"color:#ffffff;\">Das Semi-Live Multi-Roulette erweitert den Spielabend um ein modernes Format. Die Verbindung zu den Live-Tischen in Lindau macht dieses Angebot bei uns zu einer besonderen Ergänzung zwischen Automatenspiel und klassischem Roulette.<\/p> <br> <p style=\"color:#ffffff;\">Unsere Eventbühne CasinoLIVE bringt kulturelle Abwechslung in den Besuch. Wer bei uns einen Abend verbringt, kann Spiel, Kabarett, Konzert und Barbesuch zu einem lebendigen Programm verbinden.<\/p> <br> <p style=\"color:#ffffff;\">Für Gäste, die Genuss und Spiel kombinieren möchten, bietet unser Restaurant eine attraktive Ergänzung. Lokale Spezialitäten und internationale Gerichte machen den Aufenthalt bei uns auch kulinarisch vielseitig.<\/p> <br> <p style=\"color:#ffffff;\">Unsere Bar ist täglich von 13:00 bis 2:00 Uhr geöffnet und begleitet den Casinoabend mit einer reichhaltigen Getränkeauswahl. So entsteht bei uns ein angenehmer Treffpunkt vor, während oder nach dem Spiel.<\/p> <br> <p style=\"color:#ffffff;\">Mit unseren Geschenkpaketen lässt sich ein Besuch bei uns auch als besondere Aufmerksamkeit gestalten. Das Genießer-Paket Bad Steben ist im offiziellen Shop verfügbar und kann individuell zusammengestellt werden.<\/p> <br> <p style=\"color:#ffffff;\">Auch Gruppen finden bei uns ein passendes Angebot. Das Gruppen-Paket Bad Steben ist offiziell verfügbar und eignet sich für gemeinsame Casinoerlebnisse in stilvoller Umgebung.<\/p> <br> <p style=\"color:#ffffff;\">Unser Casino verbindet damit Spiel, Bühne, Bar, Restaurant und praktische Planung an einem Ort. Bei uns entsteht ein Abend, der abwechslungsreich, elegant und klar auf das Erlebnis unserer Gäste ausgerichtet ist.<\/p> <br>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Softwareanbieter"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Genuss und Besuch",
+                        "description": "<p style=\"color:#ffffff;\">Bei uns beginnt ein gelungener Besuch schon mit einer unkomplizierten Anreise. Direkt vor der Spielbank stehen ausreichend kostenlose Parkplätze zur Verfügung, und auch das Laden von Elektrofahrzeugen ist direkt vor unserem Haus möglich.<\/p> <br> <p style=\"color:#ffffff;\">Wir bieten zwei Schnellladesäulen für Elektrofahrzeuge. Damit verbinden wir den Casinoabend mit praktischem Komfort und machen die Ankunft für Gäste, die elektrisch unterwegs sind, besonders bequem.<\/p> <br> <p style=\"color:#ffffff;\">Auch mit öffentlichen Verkehrsmitteln lässt sich unser Casino angenehm erreichen. Der nächstgelegene Bahnhof ist Bad Steben, nur wenige Gehminuten von unserem Haus entfernt.<\/p> <br> <p style=\"color:#ffffff;\">Die Regionalbahn agilis fährt stündlich aus Richtung Hof Hauptbahnhof nach Bad Steben und zurück. So bleibt der Besuch bei uns auch ohne Auto gut planbar.<\/p> <br> <p style=\"color:#ffffff;\">Unser gastronomischer Bereich bietet eine schöne Ergänzung zum Spiel. Im Glüxx erwartet Gäste ein abwechslungsreiches Speisenangebot à la carte sowie wechselnde saisonale Monatsaktionen.<\/p> <br> <p style=\"color:#ffffff;\">Unsere hauseigene Bar ist täglich von 13:00 bis 2:00 Uhr geöffnet und bietet eine reichhaltige Getränkeauswahl. Damit schaffen wir bei uns einen entspannten Ort für Pausen, Gespräche und den Ausklang des Abends.<\/p> <br> <p style=\"color:#ffffff;\">Für Tischreservierungen und Auskünfte steht unser Spielbankrestaurant täglich ab 13:00 Uhr telefonisch zur Verfügung. So lässt sich ein kulinarischer Besuch bei uns bequem vorbereiten.<\/p> <br> <p style=\"color:#ffffff;\">Das Genießer-Paket Bad Steben lässt sich individuell zusammenstellen. Es umfasst einen Begrüßungs-Prosecco, einen Gutschein für Bar und Restaurant nach Wahl sowie auf Wunsch Jetons in wählbarer Höhe.<\/p> <br> <p style=\"color:#ffffff;\">Für Gäste, die unser Haus schon vor dem Besuch kennenlernen möchten, bieten wir eine virtuelle Tour durch unsere Spielbank Bad Steben. So können Besucher unsere Räumlichkeiten bereits vorab erleben.<\/p> <br> <div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bestätigter Service\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Praktische Informationen\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Adresse\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Casinoplatz 1, 95138 Bad Steben\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Kontakt\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Tel. 09288 92510; Mail: bad.steben@spielbanken-bayern.de\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Parken\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Direkt vor der Spielbank stehen ausreichend kostenlose Parkplätze zur Verfügung\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Elektromobilität\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Direkt vor der Spielbank können Elektrofahrzeuge geladen werden; es stehen zwei Schnellladesäulen bereit\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Nahverkehr\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bahnhof Bad Steben nur wenige Gehminuten entfernt; agilis fährt stündlich aus Richtung Hof Hauptbahnhof nach Bad Steben und zurück\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Gastronomie\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Im Glüxx: Speisenangebot à la carte und wechselnde saisonale Monatsaktionen\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bar\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Täglich von 13:00 bis 2:00 Uhr mit reichhaltiger Getränkeauswahl geöffnet\n  <\/td>\n<\/tr>\n<\/table> <\/div> <br> <p style=\"color:#ffffff;\">Unser Standort macht die Anreise angenehm: kostenlose Parkplätze, Schnellladesäulen und die Nähe zum Bahnhof Bad Steben sorgen dafür, dass der Weg zu uns einfach und bequem bleibt.<\/p> <br> <p style=\"color:#ffffff;\">Die Verbindung über Hof Hauptbahnhof mit der Regionalbahn agilis macht unser Casino auch für Gäste aus der Umgebung gut erreichbar. Bei uns lässt sich ein Casinoabend dadurch flexibel und entspannt planen.<\/p> <br> <p style=\"color:#ffffff;\">Im Restaurantbereich setzen wir auf Genuss mit Auswahl. À-la-carte-Angebote und saisonale Monatsaktionen geben dem Besuch eine kulinarische Note, die gut zu einem Abend in unserem Haus passt.<\/p> <br> <p style=\"color:#ffffff;\">Unsere Bar begleitet den gesamten Nachmittag und Abend. Von 13:00 bis 2:00 Uhr entsteht bei uns ein Ort für Gespräche, Getränke und kleine Pausen zwischen Spiel, Bühne und Restaurant.<\/p> <br> <p style=\"color:#ffffff;\">Das Genießer-Paket Bad Steben startet bei 20,00 € und kann mit Bar- und Restaurantgutscheinen im Wert von 20 €, 40 €, 60 € oder 80 € sowie auf Wunsch mit Jetons in entsprechender Höhe kombiniert werden.<\/p> <br> <p style=\"color:#ffffff;\">Für das Romantik-Paket ist eine Vorreservierung von mindestens 48 Stunden vorgesehen. Damit schaffen wir bei uns eine planbare Möglichkeit, besondere Abende mit Gastronomie und Casinoambiente zu verbinden.<\/p> <br> <p style=\"color:#ffffff;\">Unsere virtuelle Tour hilft Gästen, sich vor dem Besuch ein Bild von unseren Räumlichkeiten zu machen. So beginnt das Erlebnis bei uns bereits mit einem ersten Eindruck von Atmosphäre und Gestaltung.<\/p> <br> <p style=\"color:#ffffff;\">Spielteilnahme ist bei uns ab 21 Jahren möglich, und der Eintritt in die Spielsäle erfolgt mit gültigem Lichtbildausweis. Diese klare Information unterstützt eine einfache Vorbereitung des Besuchs.<\/p> <br> <p style=\"color:#ffffff;\">Unser Casino Bad Steben steht damit für eine vollständige Kombination aus Spiel, Genuss, Events, Bar, guter Erreichbarkeit und praktischen Services direkt vor Ort. Bei uns wird der Besuch zu einem komfortablen Erlebnis mit vielen bestätigten Möglichkeiten.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Wo befindet sich unsere Spielbank Bad Steben?",
+                            "answer": "Unsere Spielbank befindet sich am Casinoplatz 1, 95138 Bad Steben."
+                        },
+                        {
+                            "title": "Seit wann gibt es unsere Spielbank?",
+                            "answer": "Unsere Spielbank Bad Steben wurde am 23. März 2001 eröffnet."
+                        },
+                        {
+                            "title": "Welche Spiele bietet unser Casino?",
+                            "answer": "Unsere Gäste finden Roulette, Black Jack, Poker und moderne Spielautomaten."
+                        },
+                        {
+                            "title": "Wie viele Automaten bietet unsere Spielbank?",
+                            "answer": "Offizielle Informationen nennen über 70 modernste Spielautomaten inklusive Multi-Roulette."
+                        },
+                        {
+                            "title": "Wie viele Roulette-Tische gibt es?",
+                            "answer": "In Bad Steben wird American Roulette an drei Tischen gespielt."
+                        },
+                        {
+                            "title": "Ab welchem Alter ist die Spielteilnahme möglich?",
+                            "answer": "Die Spielteilnahme ist ab 21 Jahren mit gültigem Lichtbildausweis möglich."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
